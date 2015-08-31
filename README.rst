@@ -1,6 +1,8 @@
 Sixpack
 =======
 
+Release 1.0
+
 Python client library for SeatGeak's Sixpack ab testing framework.
 
 Installation
