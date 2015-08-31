@@ -1,6 +1,8 @@
 Sixpack
 =======
 
+Hotfix 1.0.1
+
 Python client library for SeatGeak's Sixpack ab testing framework.
 
 Installation
