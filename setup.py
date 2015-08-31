@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-from sixpack_client import __version__
+try:
+    from sixpack_client import __version__
+except ImportError:
+    __version__ = 'derp'
 
 try:
     from setuptools import setup
